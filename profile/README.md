@@ -1,1 +1,1 @@
-![thepix](https://github.com/thepix-development/.github/blob/main/rdme.png?raw=true "thepix development")
+![thepix](https://github.com/thepix-development/.github/blob/main/logo.png?raw=true "thepix development")
